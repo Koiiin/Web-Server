@@ -1,0 +1,10 @@
+D:\UIT\NT106\Lab_4\Task_1\bin\Debug\Task_1.exe.config
+D:\UIT\NT106\Lab_4\Task_1\bin\Debug\Task_1.exe
+D:\UIT\NT106\Lab_4\Task_1\bin\Debug\Task_1.pdb
+D:\UIT\NT106\Lab_4\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+D:\UIT\NT106\Lab_4\Task_1\obj\Debug\Task_1.Form1.resources
+D:\UIT\NT106\Lab_4\Task_1\obj\Debug\Task_1.Properties.Resources.resources
+D:\UIT\NT106\Lab_4\Task_1\obj\Debug\Task_1.csproj.GenerateResource.cache
+D:\UIT\NT106\Lab_4\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+D:\UIT\NT106\Lab_4\Task_1\obj\Debug\Task_1.exe
+D:\UIT\NT106\Lab_4\Task_1\obj\Debug\Task_1.pdb

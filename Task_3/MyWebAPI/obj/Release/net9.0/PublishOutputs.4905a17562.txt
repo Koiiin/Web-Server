@@ -1,0 +1,9 @@
+D:\UIT\NT106\Lab_4\Task_3\MyWebAPI\obj\Release\net9.0\PubTmp\Out\MyWebAPI.exe
+D:\UIT\NT106\Lab_4\Task_3\MyWebAPI\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\UIT\NT106\Lab_4\Task_3\MyWebAPI\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\UIT\NT106\Lab_4\Task_3\MyWebAPI\obj\Release\net9.0\PubTmp\Out\MyWebAPI.dll
+D:\UIT\NT106\Lab_4\Task_3\MyWebAPI\obj\Release\net9.0\PubTmp\Out\MyWebAPI.deps.json
+D:\UIT\NT106\Lab_4\Task_3\MyWebAPI\obj\Release\net9.0\PubTmp\Out\MyWebAPI.runtimeconfig.json
+D:\UIT\NT106\Lab_4\Task_3\MyWebAPI\obj\Release\net9.0\PubTmp\Out\MyWebAPI.pdb
+D:\UIT\NT106\Lab_4\Task_3\MyWebAPI\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\UIT\NT106\Lab_4\Task_3\MyWebAPI\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll

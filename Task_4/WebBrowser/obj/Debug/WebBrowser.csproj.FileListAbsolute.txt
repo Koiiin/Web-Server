@@ -1,0 +1,14 @@
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\bin\Debug\WebBrowser.exe.config
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\bin\Debug\WebBrowser.exe
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\bin\Debug\WebBrowser.pdb
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\bin\Debug\HtmlAgilityPack.dll
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\bin\Debug\HtmlAgilityPack.pdb
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\bin\Debug\HtmlAgilityPack.xml
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\obj\Debug\WebBrowser.csproj.AssemblyReference.cache
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\obj\Debug\WebBrowser.csproj.Up2Date
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\obj\Debug\WebBrowser.exe
+D:\UIT\NT106\Lab_4\Task_4\WebBrowser\obj\Debug\WebBrowser.pdb

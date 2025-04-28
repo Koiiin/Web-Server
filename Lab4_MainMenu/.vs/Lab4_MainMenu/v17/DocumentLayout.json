@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT\\NT106\\Lab_4\\Lab4_MainMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25AFE306-B878-4492-8F7F-F7179FED305D}|Lab4_MainMenu.csproj|D:\\UIT\\NT106\\Lab_4\\Lab4_MainMenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AFE306-B878-4492-8F7F-F7179FED305D}|Lab4_MainMenu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AFE306-B878-4492-8F7F-F7179FED305D}|Lab4_MainMenu.csproj|D:\\UIT\\NT106\\Lab_4\\Lab4_MainMenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AFE306-B878-4492-8F7F-F7179FED305D}|Lab4_MainMenu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AFE306-B878-4492-8F7F-F7179FED305D}|Lab4_MainMenu.csproj|d:\\uit\\nt106\\lab_4\\lab4_mainmenu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AFE306-B878-4492-8F7F-F7179FED305D}|Lab4_MainMenu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AD185A-DBD0-49EC-A403-2CC7D65FA05E}|..\\Task_3\\API_client\\API_client.csproj|d:\\uit\\nt106\\lab_4\\task_3\\api_client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\UIT\\NT106\\Lab_4\\Task_3\\API_client\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Task_3\\API_client\\Form1.cs",
+              "ToolTip": "D:\\UIT\\NT106\\Lab_4\\Task_3\\API_client\\Form1.cs",
+              "RelativeToolTip": "..\\Task_3\\API_client\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:10:28.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\NT106\\Lab_4\\Lab4_MainMenu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UIT\\NT106\\Lab_4\\Lab4_MainMenu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:43:45.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\UIT\\NT106\\Lab_4\\Lab4_MainMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\UIT\\NT106\\Lab_4\\Lab4_MainMenu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIA6wCsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:59:06.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\NT106\\Lab_4\\Lab4_MainMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\UIT\\NT106\\Lab_4\\Lab4_MainMenu\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:53:21.462Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

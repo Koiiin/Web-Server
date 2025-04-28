@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT\\NT106\\Lab_4\\Task_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{698479E8-8250-4C21-AF11-58231F2138AE}|User-Agent_Switcher.csproj|d:\\uit\\nt106\\lab_4\\task_2\\user-agent_switcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698479E8-8250-4C21-AF11-58231F2138AE}|User-Agent_Switcher.csproj|solutionrelative:user-agent_switcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698479E8-8250-4C21-AF11-58231F2138AE}|User-Agent_Switcher.csproj|d:\\uit\\nt106\\lab_4\\task_2\\user-agent_switcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{698479E8-8250-4C21-AF11-58231F2138AE}|User-Agent_Switcher.csproj|solutionrelative:user-agent_switcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698479E8-8250-4C21-AF11-58231F2138AE}|User-Agent_Switcher.csproj|d:\\uit\\nt106\\lab_4\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698479E8-8250-4C21-AF11-58231F2138AE}|User-Agent_Switcher.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698479E8-8250-4C21-AF11-58231F2138AE}|User-Agent_Switcher.csproj|d:\\uit\\nt106\\lab_4\\task_2\\user-agent_switcher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698479E8-8250-4C21-AF11-58231F2138AE}|User-Agent_Switcher.csproj|solutionrelative:user-agent_switcher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\M\u00F4n h\u1ECDc ch\u00EDnh\\HK4\\L\u1EADp tr\u00ECnh M\u1EA1ng\\Web-Server\\Task_2\\Task_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User-Agent_Switcher.cs",
+              "DocumentMoniker": "D:\\UIT\\NT106\\Lab_4\\Task_2\\User-Agent_Switcher.cs",
+              "RelativeDocumentMoniker": "User-Agent_Switcher.cs",
+              "ToolTip": "D:\\UIT\\NT106\\Lab_4\\Task_2\\User-Agent_Switcher.cs",
+              "RelativeToolTip": "User-Agent_Switcher.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAuwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:33:55.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User-Agent_Switcher.Designer.cs",
+              "DocumentMoniker": "D:\\UIT\\NT106\\Lab_4\\Task_2\\User-Agent_Switcher.Designer.cs",
+              "RelativeDocumentMoniker": "User-Agent_Switcher.Designer.cs",
+              "ToolTip": "D:\\UIT\\NT106\\Lab_4\\Task_2\\User-Agent_Switcher.Designer.cs",
+              "RelativeToolTip": "User-Agent_Switcher.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:29:57.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UIT\\NT106\\Lab_4\\Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UIT\\NT106\\Lab_4\\Task_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:29:49.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task_2.cs",
+              "DocumentMoniker": "D:\\M\u00F4n h\u1ECDc ch\u00EDnh\\HK4\\L\u1EADp tr\u00ECnh M\u1EA1ng\\Web-Server\\Task_2\\Task_2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\M\u00F4n h\u1ECDc ch\u00EDnh\\HK4\\L\u1EADp tr\u00ECnh M\u1EA1ng\\Web-Server\\Task_2\\Task_2.cs",
+              "ToolTip": "D:\\M\u00F4n h\u1ECDc ch\u00EDnh\\HK4\\L\u1EADp tr\u00ECnh M\u1EA1ng\\Web-Server\\Task_2\\Task_2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\M\u00F4n h\u1ECDc ch\u00EDnh\\HK4\\L\u1EADp tr\u00ECnh M\u1EA1ng\\Web-Server\\Task_2\\Task_2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:25:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User-Agent_Switcher.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\NT106\\Lab_4\\Task_2\\User-Agent_Switcher.cs",
+              "RelativeDocumentMoniker": "User-Agent_Switcher.cs",
+              "ToolTip": "D:\\UIT\\NT106\\Lab_4\\Task_2\\User-Agent_Switcher.cs [Design]",
+              "RelativeToolTip": "User-Agent_Switcher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:23:22.633Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
