@@ -55,6 +55,10 @@ Kết nối tới API mock server để lấy dữ liệu JSON hoặc XML. Giao 
 - `HttpResponseMessage`
 - Hỗ trợ phân tích dữ liệu JSON/XML sau (có thể mở rộng bằng `Json.NET`, `XmlDocument`)
 
+### 🖥️ Cách hoạt động:
+- Task 3 gồm 2 folder: API_client + MyWebAPI.
+- Bước 1: Khởi chạy server (MyWebAPI) bằng `MyWebAPI.sln` trong folder `Task_3`.
+- Bước 2: Khởi chạy client (API_client) trong `Lab4_MainMenu`. 
 ---
 
 ## ✅ Task 4: Trình duyệt mini + lấy mã nguồn HTML
