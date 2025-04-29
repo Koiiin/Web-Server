@@ -79,7 +79,7 @@ Kết nối tới API mock server để lấy dữ liệu JSON hoặc XML. Giao 
 
 ---
 
-## 🗂️ Cấu trúc thư mục (dạng chuẩn)
+## 🗂️ Cấu trúc thư mục 
 
 ```bash
 NT106\Lab_4\
@@ -98,7 +98,9 @@ NT106\Lab_4\
 ├── Task_4/
 ├───├──WebBrowser
 ├──────├──WebBrowser.sln
-
+|
+├── Lab4_MainMenu/
+├───├──Lab4_MainMenu.sln
 ```
 ---
 
